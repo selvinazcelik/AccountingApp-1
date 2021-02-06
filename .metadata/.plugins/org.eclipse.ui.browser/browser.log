@@ -1,0 +1,32 @@
+
+Oca 28, 2021 09:01:51.234 NEW SESSION
+Oca 28, 2021 09:01:51.234 [10328:14692:0128/090151.230:ERROR:device_event_log_impl.cc(211)] [09:01:51.230] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: Sisteme bağlı bir aygıt çalışmıyor. (0x1F)
+Oca 28, 2021 09:01:51.297 [10328:17164:0128/090151.296:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oca 28, 2021 09:02:20.515 [10328:17164:0128/090220.514:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oca 28, 2021 09:03:08.287 [10328:17164:0128/090308.287:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oca 28, 2021 09:04:31.259 [1352:11200:0128/090431.259:ERROR:device_event_log_impl.cc(211)] [09:04:31.259] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: Sisteme bağlı bir aygıt çalışmıyor. (0x1F)
+
+Oca 28, 2021 12:55:35.376 NEW SESSION
+Oca 28, 2021 12:55:35.376 [6040:12676:0128/125535.372:ERROR:device_event_log_impl.cc(211)] [12:55:35.371] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: Sisteme bağlı bir aygıt çalışmıyor. (0x1F)
+Oca 28, 2021 12:55:35.395 [6040:12676:0128/125535.372:ERROR:device_event_log_impl.cc(211)] [12:55:35.372] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: Sisteme bağlı bir aygıt çalışmıyor. (0x1F)
+
+Oca 30, 2021 14:06:09.717 NEW SESSION
+Oca 30, 2021 14:06:09.718 [11020:7856:0130/140609.712:ERROR:device_event_log_impl.cc(211)] [14:06:09.712] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: Sisteme bağlı bir aygıt çalışmıyor. (0x1F)
+Oca 30, 2021 15:09:34.746 [11020:14696:0130/150934.745:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oca 30, 2021 15:09:36.827 [11020:14696:0130/150936.826:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oca 30, 2021 15:09:38.633 [11020:7856:0130/150938.632:ERROR:device_event_log_impl.cc(211)] [15:09:38.627] USB: usb_service_win.cc:258 Failed to get device driver name: Eleman bulunamadı. (0x490)
+Oca 30, 2021 15:14:31.643 [11020:7856:0130/151431.643:ERROR:device_event_log_impl.cc(211)] [15:14:31.643] USB: usb_service_win.cc:258 Failed to get device driver name: Eleman bulunamadı. (0x490)
+Oca 30, 2021 15:14:31.655 [11020:7856:0130/151431.648:ERROR:device_event_log_impl.cc(211)] [15:14:31.648] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: Başka veri yok. (0x103)
+Oca 30, 2021 17:14:07.267 [11020:14696:0130/171407.266:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oca 30, 2021 17:14:12.238 [11020:7856:0130/171412.237:ERROR:device_event_log_impl.cc(211)] [17:14:12.234] USB: usb_service_win.cc:258 Failed to get device driver name: Eleman bulunamadı. (0x490)
+
+Oca 31, 2021 13:54:04.343 NEW SESSION
+Oca 31, 2021 13:54:04.343 [9164:17216:0131/135404.340:ERROR:device_event_log_impl.cc(211)] [13:54:04.340] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: Sisteme bağlı bir aygıt çalışmıyor. (0x1F)
+Oca 31, 2021 14:16:29.254 [9164:13792:0131/141629.252:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oca 31, 2021 14:16:33.205 [9164:17216:0131/141633.204:ERROR:device_event_log_impl.cc(211)] [14:16:33.203] USB: usb_service_win.cc:258 Failed to get device driver name: Eleman bulunamadı. (0x490)
+Oca 31, 2021 15:36:58.681 [4432:12472:0131/153658.681:ERROR:device_event_log_impl.cc(211)] [15:36:58.681] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: Sisteme bağlı bir aygıt çalışmıyor. (0x1F)
+Oca 31, 2021 15:39:06.814 [9700:15368:0131/153906.813:ERROR:device_event_log_impl.cc(211)] [15:39:06.813] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: Sisteme bağlı bir aygıt çalışmıyor. (0x1F)
+Oca 31, 2021 15:55:00.906 [10196:16016:0131/155500.905:ERROR:device_event_log_impl.cc(211)] [15:55:00.905] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: Sisteme bağlı bir aygıt çalışmıyor. (0x1F)
+
+Oca 31, 2021 16:45:56.782 NEW SESSION
+Oca 31, 2021 16:45:56.782 [3924:2888:0131/164556.781:ERROR:device_event_log_impl.cc(211)] [16:45:56.781] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: Sisteme bağlı bir aygıt çalışmıyor. (0x1F)
